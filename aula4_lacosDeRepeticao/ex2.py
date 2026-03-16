@@ -1,0 +1,9 @@
+"""
+Faça um programa que imprima os números de 1 a 50 de 1 de 1 e de 52
+a 100 de 2 em 2.
+"""
+for x in range(1, 51):
+    print(x)
+
+for x in range(52, 101, 2):
+    print(x)
