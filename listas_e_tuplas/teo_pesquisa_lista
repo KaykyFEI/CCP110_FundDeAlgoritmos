@@ -1,0 +1,7 @@
+filmes = ["carros", "matrix", "killbill", "carros", "toy story"]
+
+filme = "carros"
+
+for indice in range(len(filmes)):
+    if filmes[indice] == "carros":
+        print(indice)
